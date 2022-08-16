@@ -5,4 +5,4 @@
 - 🔭 Fav Technologies: AWS ☁️, Python 🐍, CI/CD ♾️
 - 🗣️ English, Spanish
 - 😄 Pronouns: She/Her
-- ✨ Other random interests: 🎸 Pop/Jazz, Data Science 🧪, Plants! 🪴, Embroidery 🧶
+- ✨ Other random interests: Pop/Jazz 🎸, Data Science 🧪, Plants! 🪴, Embroidery 🧶
